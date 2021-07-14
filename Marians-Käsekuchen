@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>CCRC's Lockdown Cookbook </title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">  
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <iframe src="https://giphy.com/embed/yKwRdZFTrH6zS"  frameBorder="0" class="giphy-embed" ></iframe><p><a href="https://giphy.com/gifs/disney-food-cake-yKwRdZFTrH6zS">via GIPHY</a></p>        
+        <p></p>
+        <h1><a href= "https://ongqingyee.github.io/ccrc-lockdown-cookbook/">CCRC's Lockdown Cookbook </a></h1>
+        <p>UNSW Climate Change Research Centre Lockdown Recipes</p>
+      </header>
+      <section>
+          <h2 id="Marian's Käsekuchen (cheese cake)">Marian's Käsekuchen (cheese cake)</h2>
+          <p> Preparation time: 15 minutes; cooking time: 50 minutes </p>
+
+          <img src="">
+            <p>Submitted by: Katrin Meissner </p>
+          <h3 id="background">Background</h3>
+            <p>arian was a friend of my parents. She lived in a house in the dunes in Denmark and made art from anything she could find on the beach. She was an amazingly creative woman with a great sense of humour. She spoke several languages, had many children, and, unfortunately, a very sad childhood. She spent years in a concentration camp as an adolescent and lost her family during the Holocaust. This is the recipe for her cheese cake. I love making it, it's fast, easy, super yummy, and it reminds me of my childhood summers in the dunes of Denmark. You will need Quark for this recipe, which can be hard to find in Sydney. Harris Farms or Maloneys usually have it in stock (look in the refrigerated area, near cottage cheese and yoghurts). (https://en.wikipedia.org/wiki/Quark_(dairy_product).</p>
+            <p><strong><em>Original Recipe: <a href="https://omnivorescookbook.com/homemade-zha-jiang-mian-fried-sauce-noodles/">Omnivore's Cookbook</a></em></strong></p>
+          
+        <h3 id="ingredients">Ingredients</h3>
+            <p>For the noodle sauce </p>
+              <ul>
+              <li>125g butter</li>
+              <li>125g sugar</li>
+              <li>4 eggs</li>
+              <li>200g Quark (40% fat if possible, see story above if you are unsure what this is)</li>
+              <li>2 tablespoons flour</li>
+              <li>1 teaspoon baking powder</li>
+              <li>1 teaspoon vanilla sugar (or a bit of vanilla extract)</li>
+              <li>1 organic lemon: 2 tablespoons of lemon juice, zest of the whole thing</li>
+
+              </ul>
+
+          <h3 id="instructions">Instructions</h3>
+          <ul>
+          Beat the butter and sugar until foamy. Add egg yolks and mix it all together. Add the Quark, flour, baking powder, vanilla, lemon juice and zest (and mix). Beat the egg whites and add carefully to the mixture. Fill all in a round springform pan with baking paper. Bake for 50 minutes in preheated oven at 150C. Once done, turn oven off, open the door a bit and let the cake cool down slowly (otherwise it will sink together and you end up with a very flat cake).
+          </ul>
+ 
+
+
+
+
+          <script src="https://utteranc.es/client.js"
+                  repo="ongqingyee/ccrc-lockdown-cookbook"
+                  issue-term="pathname"
+                  theme="github-light"
+                  crossorigin="anonymous"
+                  async>
+          </script>
+        
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
