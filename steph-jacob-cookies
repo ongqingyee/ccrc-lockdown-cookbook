@@ -1,0 +1,73 @@
+<!doctype html>
+<!-- Example recipe page - please duplicate this page only make changes from the next comment onwards! -->
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>CCRC's Lockdown Cookbook </title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">  
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <iframe src="https://giphy.com/embed/yKwRdZFTrH6zS"  frameBorder="0" class="giphy-embed" ></iframe><p><a href="https://giphy.com/gifs/disney-food-cake-yKwRdZFTrH6zS">via GIPHY</a></p>        
+        <p></p>
+        <h1><a href= "https://ongqingyee.github.io/ccrc-lockdown-cookbook/">CCRC's Lockdown Cookbook </a></h1>
+        <p>UNSW Climate Change Research Centre Lockdown Recipes</p>
+      </header>
+      <section>
+        <!-- Add recipe below! -->
+
+          <h2 id="steph-jacob-cookies"The Steph Jacobs Peanut Butter Cookie</h2>
+          <img src="">
+          <p> Preparation time:  10 minutes; Cooking time: 10 - 20 minutes </p>
+          <h3 id="background">Background</h3>
+            <p> Steph is a CoE alum from Monash, now working at the BoM. When she used to visit the CCRC she used to bring us baked goods, including these cookies. They are super easy to make and delicious. </p>
+            <p><strong><em> <a href= "https://www.linkedin.com/in/stephanie-jacobs-11a8b494/"> Linkedin </a></strong></em></p>
+          
+          
+        <h3 id="ingredients">Ingredients</h3>
+            <p>For the noodle sauce </p>
+              <ul>
+              <li>1 cup crunchy peanut butter (not fancy, just home-brand as it's greasier and make a better 
+dough) 
+              <li> 1 cup brown sugar </li> 
+              <li> 1/2 cup self raising flour </li> 
+              <li> 1/2 cup choc chips </li>
+              <li> 1 egg, or 2 if they are small </li> 
+              </ul>
+
+          <h3 id="instructions">Instructions</h3>
+          <ul>
+            <p>  Put it all in a bowl and mix put small dollops on a cookie sheet. Bake at 160 for 10-20 mins until slightly browned on top and crack on the surface. Let them cool on tray for 10 mins and then transfer to a cooling rack. Eat.  </p>
+          </ul>
+        
+        
+  
+
+        <!-- Please don't edit below this line! -->
+
+          <script src="https://utteranc.es/client.js"
+                  repo="ongqingyee/ccrc-lockdown-cookbook"
+                  issue-term="pathname"
+                  theme="github-light"
+                  crossorigin="anonymous"
+                  async>
+          </script>
+        
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
