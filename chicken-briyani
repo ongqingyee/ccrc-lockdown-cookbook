@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+   
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>CCRC's Lockdown Cookbook </title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">  
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+
+      <header>
+        <iframe src="https://giphy.com/embed/yKwRdZFTrH6zS"  frameBorder="0" class="giphy-embed" ></iframe><p><a href="https://giphy.com/gifs/disney-food-cake-yKwRdZFTrH6zS">via GIPHY</a></p>        
+        <p></p>
+        <h1><a href= "https://ongqingyee.github.io/ccrc-lockdown-cookbook/">CCRC's Lockdown Cookbook </a></h1>
+        <p>UNSW Climate Change Research Centre Lockdown Recipes</p>
+      </header>
+      <section>
+          <h2 id="chicken-briyani">Chicken Briyani</h2>
+            <p>Preparation time: 30 mins; Cooking time: 45 mins</p>
+            <p>Submitted by: Preethi Paul</p>
+          <h3 id="background">Background</h3>
+            <p>A mixed rice and meat dish popular in the Indian cuisine. One of my favorite dishes when it comes to some spicy, juicy, flavorful chicken. This recipe here is a Hyderabadi style biryani, which I have tried multiple times and just loved it! This might sound a bit complex when you try it for the first time, but the result is worth it.</p>
+          
+        <h3 id="ingredients">Ingredients</h3>
+              <ul>
+              <li>	1 Kg Chicken </li>
+              <li>	2-2.5 cups basmati rice </li>
+              <li>	2 large onions, thinly sliced </li>
+              <li>  1 medium sized tomato, thinly sliced </li>
+              <li>  2 tbsp ginger garlic paste </li>
+              <li>  2 large green chillies, each cut into 4 pieces </li>
+              <li>  Salt as per taste </li>
+              <li>	½ cup sunflower oil </li>
+              <li>	2 tbsp ghee (clarified butter) </li>
+              <li>	1 tbsp lemon juice </li>
+              <li>	3 tbsp Greek yoghurt </li>
+              <li>	1-1.5 tbsp chilli powder (according to your spiciness level) </li>
+              <li>	1 tsp coriander powder </li>
+              <li>	¼ tsp turmeric powder </li>
+              <li>	2 tbsp garam masala (description below) </li>
+              <li>	One hand full Coriander leaves </li>
+              <li>	One hand full mint leaves </li>
+              <li>	4 whole cloves </li>
+              <li>	2-inch cinnamon stick </li>
+              <li>	4 cardamom</li>
+              <li>	2 bay leaves</li>
+              <li>	1 tsp caraway seeds</li>
+
+              </ul>
+
+          <h3 id="instructions"> Instruction </h3>
+         
+<ul>
+<p> Step 1: Preparing garam masala </p>
+
+<p> You can either use store bought garam masala or can grind some whole spices to make some masala by yourself. This is not included in the ingredients list. You need ½ tsp cumin seeds, 1 tsp caraway seeds, 9 whole cloves, 7 cardamoms, 2 star anise, 1 tsp black pepper, 2-inch cinnamon stick and 2 bay leaves. Grind them to powder, and you’re ready to go. </p>
+
+<p>Step 2: Marinating the chicken </p>
+
+<p> After cleaning the chicken, cut them into large pieces, for eg: 1 chicken breast into 4 pieces. Add the ginger garlic paste, chilli powder, coriander powder, turmeric powder, powdered garam masala, green chillies, ¾ part of the oil, lemon juice, yoghurt, coriander leaves, mint leaves and 1 ½ tsp salt to the chicken and mix them well. Cover it and keep it in the fridge for at least 45 mins. You can marinate it the night before and cook the next day for best results.</p>
+
+<p> Step 3:  Rice, onion and tomatoes </p>
+
+<p> I prefer using Coles basmati rice, which gave me the best results. Wash the rice twice or thrice and keep it soaked in water for 30 mins. Now take a dutch oven, add the remaining oil and ghee. When it heats up, add the whole spices mentioned above. Give it a stir for 10 sec on medium flame and add the onions and saute until golden. Now add tomatoes and ½ tsp ginger garlic paste and saute until it turns soft and mushy. Now add ½ tsp chilli powder and saute for 2 mins and keep it aside.
+<p> Now, bring some water to boil, and add 1tsp caraway seeds, some mint leaves and the soaked rice. It will take only 3-4 mins for the rice to be 70% cooked, so keep a watch. Once it’s 70% done, strain the rice.</p>
+
+<p> Step 4: Putting everything together </p>
+
+<p> You should do this step while the strained rice is still hot; so be quick. To the dutch pan with sauted onion, add the marinated chicken and give it a nice mix. Make sure the chicken pieces are nice and flat on the bottom of the pan. Now, add the boiled rice on top of the chicken, and add some coriander leaves, and 1tbsp of ghee on top. You also need ¼ tsp of turmeric powder mixed with some water (6-7 tbsp) to be sprinkled on top of rice. Now, use a towel to cover the pan, and then place the lid on top. Now, cook this on high flame for 5 mins and then 10-15 mins on low flame. While still on low flame, put the dutch pan on top of a flat pan so that the lower layer doesn’t get burnt, and leave it for another 10 mins. Make sure the pan receives equal amount of heat at all sides; if not, turn the pan once every couple of mins. Now, turn off the flame and leave it as such for another 15 mins.
+<p> You’re ready to go. Enjoy your delicious chicken biryani </p>
+
+</ul>
+
+              
+        
+         
+           
+          <script src="https://utteranc.es/client.js"
+                  repo="ongqingyee/ccrc-lockdown-cookbook"
+                  issue-term="pathname"
+                  theme="github-light"
+                  crossorigin="anonymous"
+                  async>
+          </script>
+                                         
+          
+        
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    
+    <!---<script src="javascripts/scale.fix.js"></script>-->
+    <!--<script src="_includes/slider_scripts.html"></script>-->
+  </body>
+</html>
